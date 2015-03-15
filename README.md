@@ -9,3 +9,6 @@ This repository includes the following which pertain to my personal website whic
   4.) Tasks<br>
   5.) Placeholders<br>
   6.) Ideas
+  
+  This is a test
+  
