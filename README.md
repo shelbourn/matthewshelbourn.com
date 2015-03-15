@@ -3,9 +3,9 @@ Personal Website Repository
 
 This repository includes the following which pertain to my personal website which is matthewshelbourn.com:
 
-  1.) Code blocks
-  2.) CSS Style Sheets
-  3.) Notes
-  4.) Tasks
-  5.) Placeholders
+  1.) Code blocks<BR>
+  2.) CSS Style Sheets<BR>
+  3.) Notes<BR>
+  4.) Tasks<br>
+  5.) Placeholders<br>
   6.) Ideas
